@@ -1,0 +1,9 @@
+.vscode/
+
+test*
+
+__pycache__/
+
+LFS/
+
+sample*
