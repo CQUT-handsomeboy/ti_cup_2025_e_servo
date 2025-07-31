@@ -1,4 +1,4 @@
-class IncreasementalPID:
+class DefaultPID:
     def __init__(self, kp: float, ki: float, kd: float) -> None:
         self.kp = kp
         self.ki = ki
